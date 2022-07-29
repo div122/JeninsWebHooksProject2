@@ -1,5 +1,4 @@
-# JeninsWebHooks
-# JeninsWebHooksProject2
+# JeninsWebHooks: JeninsWebHooksProject2
 
 **create a new repository on the command line:**
 
